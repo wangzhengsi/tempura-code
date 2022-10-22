@@ -24,7 +24,7 @@ public enum PurchaseBizEnum {
 
     public static String getCode(String outerBizCode){
         for (PurchaseBizEnum purchaseBizEnum : PurchaseBizEnum.values()) {
-            if(Objects.equals(purchaseBizEnum.getCode(),outerBizCode)){
+            if(Objects.equals(purchaseBizEnum.getOuterBizCode(),outerBizCode)){
                 return purchaseBizEnum.getCode();
             }
         }

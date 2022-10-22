@@ -1,4 +1,4 @@
-﻿package com.tempura.design.utils;
+package com.tempura.design.utils;
 
 import com.tempura.design.common.result.DataResultVO;
 import com.tempura.design.common.result.ResultEnum;

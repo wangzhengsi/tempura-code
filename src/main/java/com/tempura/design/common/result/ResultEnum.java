@@ -1,4 +1,4 @@
-﻿package com.tempura.design.common.result;
+package com.tempura.design.common.result;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
